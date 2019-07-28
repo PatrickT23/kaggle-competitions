@@ -1,4 +1,6 @@
-#test
+# Ignore these files
+*results.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
